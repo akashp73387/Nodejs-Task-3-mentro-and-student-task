@@ -1,3 +1,9 @@
+NodeJS Day 3 Task - Student Mentor Assignment.
+Introduction
+This API provides endpoints for performing Student Mentor assignment.
+To perfrom the CRUD operations refer the POSTMAN documentation as reference to end points.
+
+
 Base URL:
 https://nodejs-task-3-mentro-and-student-task-1.onrender.com
 
