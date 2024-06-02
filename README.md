@@ -1,7 +1,9 @@
 NodeJS Day 3 Task - Student Mentor Assignment.
 Introduction
-This API provides endpoints for performing Student Mentor assignment.
-To perfrom the CRUD operations refer the POSTMAN documentation as reference to end points.
+This API provides endpoints for performing 
+Student Mentor assignment.
+To perfrom the CRUD operations refer the POSTMAN
+documentation as reference to end points.
 
 
 Base URL:
